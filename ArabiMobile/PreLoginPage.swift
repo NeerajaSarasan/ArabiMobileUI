@@ -26,9 +26,7 @@ class PreLoginPage: UIViewController {
             let (flagImageName, countryName) = data
             preloginCountryName.text = countryName
             preloginCountryFlagImage.image = UIImage(named: flagImageName)
-            
         }
-        
     }
     
 }
