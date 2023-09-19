@@ -31,8 +31,6 @@ class CountryPage: UIViewController {
         countryPageTableView.dataSource = self
         countryPageTableView.delegate = self
         countryPageTableView.register(UINib(nibName: "CountrySelection", bundle: nil), forCellReuseIdentifier: "selectCountry")
-        // countryPageTableView.separatorStyle = .singleLine
-        // countryPageTableView.separatorColor = .clear
         chooseCountry.text = CountryKey.chooseCountry.localised
     }
     
