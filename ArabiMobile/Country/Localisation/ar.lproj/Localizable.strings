@@ -1,0 +1,18 @@
+/* 
+ Localizable.strings
+ ArabiMobile
+ 
+ Created by Neeraja Sarasan on 15/09/23.
+ 
+ */
+"preloginChangeCountryButton_Change Country" = "تغيير الدولة";
+"Jordhan_Jordhan" = "جوردان";
+"chooseCountry_Choose the country" = "اختر البلد";
+"Jordhan_Jordhan" = "جوردان";
+"Palestine_Palestine" = "فلسطين";
+"Egypt_Egypt" = "مصر";
+"Lebanon_Lebanon" = "لبنان";
+"UAE_United Arab Emirates" = "الإمارات العربية المتحدة";
+"Qatar_Qatar" = "دولة قطر";
+"Baharain_Baharain" = "البحرين";
+"Algeria_Algeria" = "الجزائر";

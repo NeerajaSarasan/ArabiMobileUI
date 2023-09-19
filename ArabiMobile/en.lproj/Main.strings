@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3er-Br-6l0"; */
+"3er-Br-6l0.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Choose the country"; ObjectID = "6tt-D9-CfA"; */
+"6tt-D9-CfA.text" = "Choose the country";
+
+/* Class = "UIButton"; configuration.title = "Change Country"; ObjectID = "8CM-MJ-0bS"; */
+"8CM-MJ-0bS.configuration.title" = "Change Country";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8CM-MJ-0bS"; */
+"8CM-MJ-0bS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Jordhan"; ObjectID = "ClX-xj-Tvq"; */
+"ClX-xj-Tvq.text" = "Jordhan";
